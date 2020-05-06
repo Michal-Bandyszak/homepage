@@ -8,6 +8,10 @@ h2{
   color: #1460AA;
 }
 
+a {
+  color: #02e4d5;
+  text-decoration: none;
+}
 
 .main-heading {
   color: red;
