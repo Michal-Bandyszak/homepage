@@ -3,17 +3,22 @@ body {
   font-size: 12px;
 }
 
-
-h2{
-  color: #1460AA;
+.navigation {
+  background: green;
+  padding: 16px;
+  border-radius: 8px;;
 }
 
-a {
-  color: #02e4d5;
+.navigation__link {
+  color: #fff;
+  display: inline-block;
+  margin-right: 20px;
   text-decoration: none;
 }
 
-.main-heading {
-  color: red;
+.navigation__link--home {
+  background: #000;
+  color: yellow;
 }
+
 
